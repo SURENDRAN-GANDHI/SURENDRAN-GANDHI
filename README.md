@@ -10,10 +10,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SURENDRAN02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendrang02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surendrang02@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Coimbatore,_India-grey?style=for-the-badge)](https://www.google.com/maps/place/Chennai)
-[![Profile Views](https://komarev.com/ghpvc/?username=SURENDRAN02&style=for-the-badge&color=0e75b6)](https://github.com/SURENDRAN02)
+[![Profile Views](https://komarev.com/ghpvc/?username=SURENDRAN02&style=for-the-badge&color=0e75b6)](https://github.com/surendrang02)
 
 </div>
 
@@ -102,14 +102,14 @@ I'm a **Data Scientist** with a strong foundation in **Python, Machine Learning,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SURENDRAN02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURENDRAN02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SURENDRAN02&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURENDRAN02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SURENDRAN02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SURENDRAN02&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
