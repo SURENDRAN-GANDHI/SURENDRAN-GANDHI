@@ -16,7 +16,7 @@
 class DataScientist:
     def __init__(self):
         self.name            = "Surendran G"
-        self.location        = "Chennai, Tamil Nadu, India 🇮🇳"
+        self.location        = "Coimbatore, Tamil Nadu, India 🇮🇳"
         self.degree          = "B.E. in Computer Science and Engineering (CGPA: 7.86)"
         self.email           = "surendrang02@gmail.com"
         self.role            = "Data Scientist | ML Engineer"
