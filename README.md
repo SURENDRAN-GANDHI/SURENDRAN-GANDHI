@@ -102,14 +102,14 @@ I'm a **Data Scientist** with a strong foundation in **Python, Machine Learning,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SURENDRAN-GANDHI&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURENDRAN-GANDHI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SURENDRAN-GANDHI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURENDRAN-GANDHI&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SURENDRAN-GANDHI&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SURENDRAN-GANDHI&theme=tokyo-night&hide_border=false&area=false" width="100%"/>
 
 </div>
 
