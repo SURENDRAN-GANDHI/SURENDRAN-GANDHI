@@ -48,7 +48,7 @@ I'm passionate about Artificial Intelligence and Data Science, building practica
 ## 📫 Connect With Me
 
 * 📧 Email: [surendrang02@gmail.com](mailto:surendrang02@gmail.com)
-* 💼 LinkedIn: Coming Soon
+* 💼 LinkedIn: [SURENDRAN G](https://www.linkedin.com/in/surendran-g-488817225/)
 * 🌐 Portfolio: Coming Soon
 * 💻 LeetCode: Coming Soon
 
